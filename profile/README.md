@@ -1,15 +1,10 @@
 <p align="center">
-<img src="./imgs/icon.png" height="200">
-</p>
-<p align="center">
 <a href="https://www.wangyunf.com/blossom-doc/doc/tryuse">💻️ 试用</a> | <a href="https://www.wangyunf.com/blossom-doc/index">📃 文档</a> | <a href="https://github.com/blossom-editor/blossom/releases">📥 下载</a> 
 </p>
 
 ---
 
 Blossom 是一个支持**私有部署**的**云端存储双链笔记软件**，你可以将你所有的笔记，图片，个人计划安排保存在自己的服务器中，并在任意设备之间实时同步，且基于MIT协议完全开源。
-
-![](./imgs/home_ld.jpg "Blossom 首页")
 
 - 你可以先进行[试用](https://www.wangyunf.com/blossom-doc/doc/tryuse)，我们提供了一个试用账号帮你体验该应用。
 - 阅读[文档](https://www.wangyunf.com/blossom-doc/index)来查看更多使用细节。
