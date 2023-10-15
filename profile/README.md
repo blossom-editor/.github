@@ -2,7 +2,7 @@
 <img src="https://github.com/blossom-editor/blossom/blob/dev/doc/imgs/icon.png" height="200">
 </p>
 <p align="center" >
-Blossom 1.5.0
+Blossom
 </p>
 
 <p align="center">
