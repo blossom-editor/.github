@@ -1,31 +1,64 @@
 <p align="center">
-<a href="https://www.wangyunf.com/blossom-doc/doc/tryuse">💻️ 试用</a> | <a href="https://www.wangyunf.com/blossom-doc/index">📃 文档</a> | <a href="https://github.com/blossom-editor/blossom/releases">📥 下载</a> 
+<img src="./imgs/blossom_name.png" height="auto">
+</p>
+<p align="center">
+<a href="https://www.wangyunf.com/blossom-demo/#/settingindex">💻️ 试用</a> | <a href="https://www.wangyunf.com/blossom-doc/index.html">📃 文档</a> | <a href="https://www.wangyunf.com/blossom-doc/guide/about/download.html">📥 下载</a> 
 </p>
 
----
+Blossom 是一个支持**私有部署**的**云端双链笔记软件**，你可以将你的笔记，图片，个人计划安排保存在自己的服务器中，并在任意设备之间实时同步。同时还是一个动态博客。
 
-Blossom 是一个支持**私有部署**的**云端存储双链笔记软件**，你可以将你所有的笔记，图片，个人计划安排保存在自己的服务器中，并在任意设备之间实时同步，且基于MIT协议完全开源。
+支持 Windows，Mac，网页客户端，网页移动端。
 
-- 你可以先进行[试用](https://www.wangyunf.com/blossom-doc/doc/tryuse)，我们提供了一个试用账号帮你体验该应用。
-- 阅读[文档](https://www.wangyunf.com/blossom-doc/index)来查看更多使用细节。
+<p align="center">
+<img src="./imgs/device.png">
+</p>
 
----
+# 🛎️ 在线试用
 
-#### Blossom 具有以下优势:
+你可以通过[在线地址](https://www.wangyunf.com/blossom-demo/#/settingindex)或[下载客户端](https://www.wangyunf.com/blossom-doc/guide/about/download.html)试用，详细信息请查看[试用](https://www.wangyunf.com/blossom-doc/guide/tryuse.html)文档。
 
-1. **不再需要为同步设备数量付费**。
-2. **不再需要为公网访问付费**。
-3. **不再需要为软件付费**,基于[MIT协议](https://choosealicense.com/licenses/mit/)完全开源
-4. **文章与图片都在你的服务器存储**，不需要再使用任何三方图床，不需要购买任何对象存储。
-5. **没有任何私有协议**，基于 Markdown 语法，采用约定格式拓展样式。迁移到其他软件可以正常显示。
-6. **多账号权限**，可以和你的朋友一起使用。或者将自己的生活/工作笔记存放在不同账号中。
+<br/><br/>
 
-#### Blossom 具有以下功能:
-1. **文章编辑**：文章编写，以及文章公网访问权限设置。
-2. **双链笔记**：内部文章与外部链接引用形成的双链笔记。
-3. **图片管理**：按文章目录分类你的图片，或自定义图片目录。
-4. **自带截图功能**(仅windows)，你不再需要使用其他截图工具截图后保存在本地再上传到文章了。
-5. **快捷便签**：方便你记录随意的日常信息。
-6. **计划安排**：阶段性的长期计划，或者日历中的短期计划安排。
-7. **网站收藏**：常用网站快捷访问，或者说是一个书签功能。
-8. 笔记总字数折线图，笔记编辑数量热力图，服务器请求量折线图等多种统计。
+# 👏 Blossom 的特点:
+
+### 完善的文件关系
+
+Blossom 不依赖任何三方存储和图床，其本身就是一个图床，并且提供了完善的图片管理，访勿删，以及图片和文章的双向关系绑定。
+
+基于 Markdown 编写，没有破坏性的语法拓展，在这里编写的内容在任何 Markdown 软件中都能正常显示。
+
+### 快速迁移
+
+所有图片和文章都支持一键备份和导出，可以在几分钟内轻松迁出。导出的文件可以无缝使用 VS Code 或 Obsidian 等本地软件正常打开。
+
+### 丰富的附加功能
+
+- 📅 [计划安排](https://www.wangyunf.com/blossom-doc/guide/plan.html)
+- 🏷️ [待办事项](https://www.wangyunf.com/blossom-doc/guide/todo.html)
+- 🎫 [快捷便签](https://www.wangyunf.com/blossom-doc/guide/note.html)
+- 🍅 [番茄钟](https://www.wangyunf.com/blossom-doc/guide/article.html#tomato)
+- 🧰 多用户、字数统计、字数折线图、编辑热力图、天气预报、主题设置...
+
+Blossom 拥有丰富的功能，不仅仅是知识管理，更是一个可以供多人同时使用的全面实用性工具。
+
+<br/><br/>
+
+# 🚀 Docker Compose 一键部署
+
+```
+docker compose -f docker/compose/blossom-mysql8.yaml up -d
+```
+
+<br/><br/>
+
+# 🥳 加入群聊
+
+加入群聊进行沟通，反馈问题。
+
+- 1 群：522359970 (即将满)
+- 2 群：921906098
+
+<p align="center">
+<img src="./imgs/qq1.png" height="400">
+<img src="./imgs/qq2.png" height="400">
+</p>
