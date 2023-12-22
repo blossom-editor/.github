@@ -18,8 +18,6 @@ Blossom 是一个支持**私有部署**的**云端双链笔记软件**，你可�
 
 你可以通过[在线地址](https://www.wangyunf.com/blossom-demo/#/settingindex)或[下载客户端](https://www.wangyunf.com/blossom-doc/guide/about/download.html)试用，详细信息请查看[试用](https://www.wangyunf.com/blossom-doc/guide/tryuse.html)文档。
 
-<br/><br/>
-
 # 👏 Blossom 的特点:
 
 ### 完善的文件关系
@@ -41,25 +39,3 @@ Blossom 不依赖任何三方存储和图床，其本身就是一个图床，并
 - 🧰 多用户、字数统计、字数折线图、编辑热力图、天气预报、主题设置...
 
 Blossom 拥有丰富的功能，不仅仅是知识管理，更是一个可以供多人同时使用的全面实用性工具。
-
-<br/><br/>
-
-# 🚀 Docker Compose 一键部署
-
-```
-docker compose -f docker/compose/blossom-mysql8.yaml up -d
-```
-
-<br/><br/>
-
-# 🥳 加入群聊
-
-加入群聊进行沟通，反馈问题。
-
-- 1 群：522359970 (即将满)
-- 2 群：921906098
-
-<p align="center">
-<img src="./profile/imgs/qq1.png" height="400">
-<img src="./profile/imgs/qq2.png" height="400">
-</p>
