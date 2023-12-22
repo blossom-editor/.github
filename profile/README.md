@@ -11,7 +11,7 @@ Blossom 是一个支持**私有部署**的**云端双链笔记软件**，你可�
 支持 Windows，Mac，网页客户端，网页移动端。
 
 <p align="center">
-<img src="./imgs/device.png">
+<img src="./profile/imgs/device.png">
 </p>
 
 # 🛎️ 在线试用
@@ -60,6 +60,6 @@ docker compose -f docker/compose/blossom-mysql8.yaml up -d
 - 2 群：921906098
 
 <p align="center">
-<img src="./imgs/qq1.png" height="400">
-<img src="./imgs/qq2.png" height="400">
+<img src="./profile/imgs/qq1.png" height="400">
+<img src="./profile/imgs/qq2.png" height="400">
 </p>
