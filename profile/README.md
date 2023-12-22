@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./imgs/blossom_name.png" height="auto">
+<img src="./profile/imgs/blossom_name.png" height="auto">
 
 </p>
 <p align="center">
